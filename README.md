@@ -1,5 +1,5 @@
 
-![](../portfolio/img/draw2.png) 
+![](https://github.com/Avtarka/Portfolio/blob/main/img/draw2.png?raw=true) 
 
 # Графические примеры моих работ
 
