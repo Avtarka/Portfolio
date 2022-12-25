@@ -5,8 +5,8 @@
 
 **Здравствуйте, здесь вы можете ознакомиться с некоторыми примерами моего твочества:**
 
-- «[Логотипы](../portfolio/logotyps/README.md)»
-- «[Наружная реклама](../portfolio/outdoor_adv)»
-- «[Полиграфия](../portfolio/polygraphy)»
-- «[Портрет](../portfolio/portrait/portrait)»
-- «[Веб](../portfolio/web)»
+- «[Логотипы](https://github.com/Avtarka/Portfolio/tree/main/logotyps)»
+- «[Наружная реклама](https://github.com/Avtarka/Portfolio/tree/main/outdoor_adv)»
+- «[Полиграфия](https://github.com/Avtarka/Portfolio/tree/main/polygraphy)»
+- «[Портрет](https://github.com/Avtarka/Portfolio/tree/main/portrait)»
+- «[Веб](https://github.com/Avtarka/Portfolio/tree/main/web)»
